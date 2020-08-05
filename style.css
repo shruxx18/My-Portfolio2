@@ -1,0 +1,29 @@
+
+h1{
+    color:whitesmoke;
+}
+.Class1{
+    background-color: blueviolet;
+    display:flex;
+    justify-content: space-between;
+}
+.menu{
+    font-style: italic;
+    color: whitesmoke;
+}
+h2,p{
+    font-size: medium;
+    color:black;
+}
+a{
+    color: whitesmoke;
+}
+.Grid{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.footer{
+    display:flex;
+    justify-content: flex-end;
+}
